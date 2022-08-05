@@ -25,5 +25,15 @@ You can customize the image however you want by simply changing parameters on th
 - `txt` - Set sub heading text.
 - `avatar` - Show the default avatar *(true/false)*
 
+Here the `bg` and `fill` parameters have been added with custom colors.
+
+`https://api.harmansandhu.tech/?username=harman-sandhu&bg=white&fill=black`
+<img src="https://api.harmansandhu.tech/?username=harman-sandhu&bg=white&fill=black"/>
+
+This is how it looks with the `avatar` parameter set to false. 
+
+`https://api.harmansandhu.tech/?username=harman-sandhu&bg=white&fill=black&avatar=false`
+<img src="https://api.harmansandhu.tech/?username=harman-sandhu&bg=white&fill=black&avatar=false"/>
+
 ### Demo
 <img src="https://api.harmansandhu.tech/?username=harman-sandhu"/>
