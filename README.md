@@ -1,8 +1,9 @@
 <p align="center">
-<h2 align="center">GitHub README Generator</h2>
-<p align="center">Generate a dynamic image for your GitHub Profile README.<br>
-<small align="center">This is just the start, more to come!</small></p>
+<h2 align="center">GitHub Profile README Generator</h2>
+<p align="center">Generate a dynamic image for your GitHub Profile README.
+<small align="center">(this is just the start, more to come!)</small></p>
 </p>
+<p align="center"> <a href="https://twitter.com/harmansxndhu" target="blank"><img src="https://img.shields.io/twitter/follow/harmansxndhu?logo=twitter&style=for-the-badge" alt="harmansxndhu" /></a> </p>
 
 # Features
 
